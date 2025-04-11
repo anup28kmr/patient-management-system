@@ -1,4 +1,2 @@
 ### GET request to patient service
-GET http://localhost:4000/api/v1/patients
-
-###
+GET http://localhost:4004/api/v1/patients
