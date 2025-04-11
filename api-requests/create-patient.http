@@ -1,0 +1,11 @@
+### POST request to create a patient
+POST http://localhost:4000/api/v1/patients
+Content-Type: application/json
+
+{
+  "name": "AK",
+  "email": "content_billing@email.com",
+  "address": "Delhi",
+  "registeredDate": "2025-04-11",
+  "dateOfBirth": "2025-04-11"
+}
