@@ -1,2 +1,3 @@
 ### GET request to patient service
 GET http://localhost:4004/api/v1/patients
+Authorization: Bearer {{token}}

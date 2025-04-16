@@ -1,4 +1,5 @@
-POST http://localhost:4005/login
+#POST http://localhost:4004/auth/login
+POST http://lb-cc3ce4cb.elb.localhost.localstack.cloud:4004/auth/login
 Content-Type: application/json
 
 {
